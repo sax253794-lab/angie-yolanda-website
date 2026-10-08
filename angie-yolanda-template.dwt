@@ -1,0 +1,23 @@
+<!-- TemplateBegin template="/angie-yolanda-dreamweaver/angie-yolanda-template.dwt" -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><!-- TemplateBeginEditable name="title" -->Page Title<!-- TemplateEndEditable --> | Angie Yolanda Beauty Parlour</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!-- TemplateBeginEditable name="page_content" -->
+<main>
+  <section class="page-banner">
+    <div class="container"><h1>Page Title</h1><p>Edit this content in Dreamweaver.</p></div>
+  </section>
+</main>
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="footer_note" --><!-- TemplateEndEditable -->
+<script src="js/script.js"></script>
+</body>
+</html>
+<!-- TemplateEnd -->

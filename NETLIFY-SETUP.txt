@@ -1,0 +1,45 @@
+ANGIE YOLANDA BEAUTY PARLOUR
+Netlify + Adobe Dreamweaver Setup
+
+THIS IS A STATIC WEBSITE
+- HTML pages
+- CSS styling
+- JavaScript
+- Local image files
+- No Node.js or build step is required.
+
+FASTEST WAY TO PUBLISH
+1. Extract this ZIP file.
+2. Open https://app.netlify.com/drop
+3. Sign in to Netlify.
+4. Drag the folder "Angie-Yolanda-Netlify-Dreamweaver-Website" into the Drop zone.
+5. Netlify will publish the site and give you a URL ending in .netlify.app.
+6. Use that URL to share the website.
+
+IMPORTANT
+- Drag the extracted FOLDER, not the ZIP file.
+- Keep index.html at the top level of the folder.
+- Keep css, js, and images folders in their current positions.
+- Do not rename the image folders unless you also update the HTML paths.
+
+EDITING WITH DREAMWEAVER
+1. Open Adobe Dreamweaver.
+2. Choose Site > New Site.
+3. Select this extracted folder as the Local Site Folder.
+4. Edit the HTML/CSS normally.
+5. Save your changes.
+6. Test index.html in a browser.
+7. Return to Netlify and drag the updated site folder into the site's Deploys upload area.
+
+OPTIONAL PROFESSIONAL WORKFLOW
+You can connect the Netlify project to GitHub later. Then every push to the production branch can automatically create a new deployment.
+
+CONTACT FORM
+The contact page currently uses a mailto form. Replace
+your-email@example.com
+in contact.html with the store's real email address if you want the form to open the visitor's email program.
+
+CUSTOM DOMAIN
+After the site is live, you can connect a domain such as:
+www.angieyolandabeauty.com
+from the Netlify domain settings.
